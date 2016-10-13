@@ -2,10 +2,10 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.sqa.rg</groupId>
-	<artifactId>java-project</artifactId>
+	<artifactId>pet-registration</artifactId>
 	<version>1.0-SNAPSHOT</version>
-	<name>Basic Project</name>
-	<description>Basic Java project For Applications</description>
+	<name>Pet Registration</name>
+	<description>A simple Java application for pet registration</description>
 
 	<dependencies>
 		<dependency>
